@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod U+X hello
+chmod u+x hello
 
